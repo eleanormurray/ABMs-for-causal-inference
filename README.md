@@ -5,4 +5,4 @@ This repository includes code for simulating data with time-varying treatment-co
 
 Reference:
 
-[1] Murray EJ, Robins JM, George R. Seage III, Freedberg KA, Hernan MA. A Comparison of Agent-Based Models and the Parametric G-Formula for Causal Inference. American Journal of Epidemiology. 2017;186(2):131-42.
+[1] Murray EJ, Robins JM, George R. Seage III, Freedberg KA, Hernan MA. A Comparison of Agent-Based Models and the Parametric G-Formula for Causal Inference. American Journal of Epidemiology. 2017;186(2):131-42 [http://bit.ly/2tKYt75].
