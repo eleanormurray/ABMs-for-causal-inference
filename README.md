@@ -12,9 +12,13 @@ This program contains the macros required to execute the simulation, except the 
 References:
 
 [1] Murray EJ, Robins JM, George R. Seage III, Freedberg KA, Hernan MA. A Comparison of Agent-Based Models and the Parametric G-Formula for Causal Inference. American Journal of Epidemiology. 2017;186(2):131-42 [http://bit.ly/2tKYt75].
+
 [2]	Taubman SL, Young JG, Picciotto S, Logan R, Hernán MA. G-formula SAS macro 2012. Version June-2015. Available from: http://www.hsph.harvard.edu/causal/software/.
+
 [3] Harrell FE. %rcspline macro. Clinical Biostatistics Duke University Medical Center, 1988.
+
 [4] Devlin TF, Weeks BJ, editors. Spline functions for logistic regression modeling. Proceedings of the Eleventh Annual SAS Users Group International; 1986 February 9-12; Atlanta, Georgia: Cary NC: SAS Institute.
+
 [5] Sample 44124: Counting the number of missing and non-missing values for each variable in a data set: SAS Institute Inc;  [11/30/2016]. Available from: http://support.sas.com/kb/44/124.html.
 
 
